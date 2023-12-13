@@ -1,5 +1,5 @@
 # Todo Terminal App using python 
-## Once you pull the repo 
+## Once you clone the repository
 ## Project Setup
 
 ```sh
